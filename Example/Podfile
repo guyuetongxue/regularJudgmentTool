@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'regularJudgmentTool_Example' do
+  pod 'regularJudgmentTool', :path => '../'
+
+  target 'regularJudgmentTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
