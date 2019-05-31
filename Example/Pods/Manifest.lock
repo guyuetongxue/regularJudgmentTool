@@ -1,0 +1,16 @@
+PODS:
+  - regularJudgmentTool (0.0.1)
+
+DEPENDENCIES:
+  - regularJudgmentTool (from `../`)
+
+EXTERNAL SOURCES:
+  regularJudgmentTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  regularJudgmentTool: 056d7fd38c7dffeb6c7fa5cd208d5df5e2c05486
+
+PODFILE CHECKSUM: 99920973608a38a17b952604060cfd0f750ae3d1
+
+COCOAPODS: 1.6.1

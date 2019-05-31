@@ -1,0 +1,6 @@
+framework module regularJudgmentTool {
+  umbrella header "regularJudgmentTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
